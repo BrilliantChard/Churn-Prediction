@@ -2,8 +2,6 @@
 
 This project is a **Streamlit web application** that uses a **deep learning model (TensorFlow)** to predict whether a customer is likely to churn or stay based on various features from the Telco dataset.
 
-![Streamlit App Screenshot](screenshot.png) <!-- You can update this with a real screenshot later -->
-
 ---
 
 ## 📦 Features
