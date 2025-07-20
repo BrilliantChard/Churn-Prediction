@@ -6,4 +6,4 @@ seaborn
 numpy
 keras
 joblib
-tensorflow
+tensorflow-cpu
